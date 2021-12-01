@@ -1,0 +1,21 @@
+{
+  "name": "kvasar",
+  "version": "1.0.0",
+  "description": "exam project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Luca Bastholm",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mariadb": "^2.5.5",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "pg": "^8.7.1",
+    "pgtools": "^0.3.2",
+    "require": "^2.4.20"
+  }
+}
